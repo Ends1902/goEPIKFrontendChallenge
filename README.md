@@ -39,7 +39,8 @@ npm --version
 
 ```bash
 git clone <url-do-repositorio>
-cd frontend
+
+cd goEPIKFrontendChallenge
 ```
 
 ### 2️⃣ Instalar Dependências
